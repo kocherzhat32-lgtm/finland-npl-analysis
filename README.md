@@ -63,7 +63,6 @@ The project supports:
 
 ## 🗂️ Repository Structure
 
-**● finland-npl-analysis
     ● dashboard
         ○ dashboard.pdf
 
@@ -81,4 +80,4 @@ The project supports:
         ○ create_npl_by_year.sql
         ○ create_npl_summary.sql
 
-    ○ README.md**
+    ○ README.md
