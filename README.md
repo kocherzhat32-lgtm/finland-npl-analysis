@@ -63,26 +63,22 @@ The project supports:
 
 ## 🗂️ Repository Structure
 
-finland-npl-analysis/
-│
-├── dashboard/
-│   └── dashboard.pdf
-│
-├── data/
-│   ├── npl_all_years.csv
-│   └── npl_raw_data_2014_2018.xlsx
-│
-├── report/
-│   └── EXECUTIVE SUMMARY — NPL Portfolio Analysis.pdf
-│
-├── sql/
-│   ├── create_npl_by_date.sql
-│   ├── create_npl_by_sector.sql
-│   ├── create_npl_by_sector_by_date.sql
-│   ├── create_npl_by_year.sql
-│   └── create_npl_summary.sql
-│
-└── README.md
+● finland-npl-analysis
+    ● dashboard
+        ○ dashboard.pdf
 
+    ● data
+        ○ npl_all_years.csv
+        ○ npl_raw_data_2014_2018.xlsx
 
+    ● report
+        ○ EXECUTIVE SUMMARY — NPL Portfolio Analysis.pdf
 
+    ● sql
+        ○ create_npl_by_date.sql
+        ○ create_npl_by_sector.sql
+        ○ create_npl_by_sector_by_date.sql
+        ○ create_npl_by_year.sql
+        ○ create_npl_summary.sql
+
+    ○ README.md
