@@ -64,6 +64,7 @@ The project supports:
 ## 🗂️ Repository Structure
 
 ⯆ finland-npl-analysis
+
     ● dashboard
         ○ dashboard.pdf
 
