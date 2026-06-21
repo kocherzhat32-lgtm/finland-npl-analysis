@@ -65,24 +65,26 @@ The project supports:
 
 finland-npl-analysis
 
-    ● dashboard
-        ○ dashboard.pdf
+- dashboard
+  - dashboard.pdf
 
-    ● data
-        ○ npl_all_years.csv
-        ○ npl_raw_data_2014_2018.xlsx
+- data
+  - npl_all_years.csv
+  - npl_raw_data_2014_2018.xlsx
 
-    ● report
-        ○ EXECUTIVE SUMMARY — NPL Portfolio Analysis.pdf
+- report
+  - EXECUTIVE SUMMARY — NPL Portfolio Analysis.pdf
 
-    ● sql
-        ○ create_npl_by_date.sql
-        ○ create_npl_by_sector.sql
-        ○ create_npl_by_sector_by_date.sql
-        ○ create_npl_by_year.sql
-        ○ create_npl_summary.sql
+- sql
+  - create_npl_by_date.sql
+  - create_npl_by_sector.sql
+  - create_npl_by_sector_by_date.sql
+  - create_npl_by_year.sql
+  - create_npl_summary.sql
 
-    ○ README.md
+- README.md
+
+---
 
 ## 👩‍💻 Author
 
