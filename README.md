@@ -63,7 +63,7 @@ The project supports:
 
 ## 🗂️ Repository Structure
 
-⯆ finland-npl-analysis
+finland-npl-analysis
 
     ● dashboard
         ○ dashboard.pdf
@@ -83,3 +83,8 @@ The project supports:
         ○ create_npl_summary.sql
 
     ○ README.md
+
+## 👩‍💻 Author
+
+**Oksana Kocherzhat**  
+Junior Data Analyst | OAMK Student 
