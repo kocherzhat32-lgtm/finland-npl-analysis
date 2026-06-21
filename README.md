@@ -89,4 +89,7 @@ finland-npl-analysis
 ## 👩‍💻 Author
 
 **Oksana Kocherzhat**  
-Junior Data Analyst | OAMK Student 
+Junior Data Analyst (OAMK)  
+📍 Finland  
+🔗 LinkedIn: http://www.linkedin.com/in/oksana-kocherzhat-834518231
+
